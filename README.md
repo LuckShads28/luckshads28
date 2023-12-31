@@ -1,4 +1,5 @@
 # 💫 About Me:
+Just some random college student who likes coding, game, anime and manga<br><br>
 🧠 I'm currently learning about Machine Learning and Mobile Development With Flutter<br><br>⭐ I'm interested in Game Development<br><br>🎮 My favorite game genre is Simulation, RPG
 
 
